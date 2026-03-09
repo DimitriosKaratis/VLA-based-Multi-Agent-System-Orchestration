@@ -4,7 +4,7 @@ This project implements a cutting-edge **Vision-Language-Action (VLA)** pipeline
 
 ## 🚀 Overview
 
-The system bridges the gap between high-level semantic scene understanding and low-level robotic control. By utilizing state-of-the-art Large Multimodal Models (LMMs) and specialized AI Agents, the project automates the transition from "seeing" a room to "safely navigating" it.
+The system bridges the gap between high-level semantic scene understanding and low-level robotic control. By utilizing state-of-the-art Large Multimodal Models (LMMs) and specialized AI Agents, the project automates the transition from "seeing" a room to "safely navigating" it in theory.
 
 ### Key Features
 * **Visual Grounding:** Uses the **Qwen2.5-VL-7B** model to perform semantic analysis of indoor environments.
